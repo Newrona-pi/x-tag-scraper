@@ -1,0 +1,3729 @@
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzcyOTY0MzM4NDcyNzc1Njgw",
+  "rest_id": "1772964338472775680",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1884998216737013760/6gGAAT-W_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Mar 27 12:30:32 +0000 2024",
+    "name": "狐森ろべ🍋🦊VTuber",
+    "screen_name": "lobe_VT"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "profcard.info/u/2uOPZClLd4Xy…",
+            "expanded_url": "https://profcard.info/u/2uOPZClLd4Xy6a42h5K3EkBvyth2",
+            "url": "https://t.co/XbKLeNF4Ej",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@komorilobe",
+            "expanded_url": "https://www.youtube.com/@komorilobe",
+            "url": "https://t.co/LpdypN2ApG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 5650,
+    "followers_count": 731,
+    "friends_count": 455,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 10,
+    "media_count": 1098,
+    "normal_followers_count": 731,
+    "pinned_tweet_ids_str": [
+      "1886570905251536904"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772964338472775680/1738253571",
+    "profile_interstitial_type": "",
+    "statuses_count": 2599,
+    "translator_type": "none",
+    "url": "https://t.co/LpdypN2ApG",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "個人"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjo0OTU0NzU5Mzk=",
+  "rest_id": "495475939",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1770305141117505536/aG0MImlp_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sat Feb 18 00:49:15 +0000 2012",
+    "name": "成仏",
+    "screen_name": "lga771"
+  },
+  "dm_permissions": {
+    "can_dm": false
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "「勝利の女神NIKKE」\n「ゆっきん村YouTube ✝eden✝」\n「ゆっきん村ファンボックス✝eden✝」\n博多弁猫Vtuberゆっきんのみを応援する人です。記事には私のプレイ中のゲームとゆっきんの事のみ掲載します。\nエロ垢に用はない、くだらんレスつけるな。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 126728,
+    "followers_count": 1766,
+    "friends_count": 1815,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 8,
+    "media_count": 9345,
+    "normal_followers_count": 1766,
+    "pinned_tweet_ids_str": [
+      "1900773904693817595"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/495475939/1710908610",
+    "profile_interstitial_type": "",
+    "statuses_count": 70301,
+    "translator_type": "none",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "「勝利の女神NIKKE」\n「ゆっきん村YouTube ✝eden✝」\n「ゆっきん村ファンボックス✝eden✝」\n博多弁猫Vtuberゆっきんのみを応援する人です。記事には私のプレイ中のゲームとゆっきんの事のみ掲載します。\nエロ垢に用はない、くだらんレスつけるな。"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyNTU2NDg3Mzg3Mzg1ODU2",
+  "rest_id": "1232556487387385856",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1952603304430833664/G_DJ5lOL_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Feb 26 06:42:42 +0000 2020",
+    "name": "はにーらびっと🍯🐰VTuber",
+    "screen_name": "HoneyRabbit15"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "x.gd/xcIpj",
+            "expanded_url": "https://x.gd/xcIpj",
+            "url": "https://t.co/KInouOt18Z",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCBwQq…",
+            "expanded_url": "https://www.youtube.com/channel/UCBwQqO7WYMN7e232Lg92osg/featured?disable_polymer=1",
+            "url": "https://t.co/7FAyputnlf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 116754,
+    "followers_count": 4051,
+    "friends_count": 502,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 61,
+    "media_count": 2663,
+    "normal_followers_count": 4051,
+    "pinned_tweet_ids_str": [
+      "1815927593608306720"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232556487387385856/1758556838",
+    "profile_interstitial_type": "",
+    "statuses_count": 25157,
+    "translator_type": "none",
+    "url": "https://t.co/7FAyputnlf",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1614089386395852801",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 15,
+        "name": "エンターテイメント・レクリエーション",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzcyOTY0MzM4NDcyNzc1Njgw",
+  "rest_id": "1772964338472775680",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1884998216737013760/6gGAAT-W_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Mar 27 12:30:32 +0000 2024",
+    "name": "狐森ろべ🍋🦊VTuber",
+    "screen_name": "lobe_VT"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "profcard.info/u/2uOPZClLd4Xy…",
+            "expanded_url": "https://profcard.info/u/2uOPZClLd4Xy6a42h5K3EkBvyth2",
+            "url": "https://t.co/XbKLeNF4Ej",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@komorilobe",
+            "expanded_url": "https://www.youtube.com/@komorilobe",
+            "url": "https://t.co/LpdypN2ApG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 5650,
+    "followers_count": 731,
+    "friends_count": 455,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 10,
+    "media_count": 1098,
+    "normal_followers_count": 731,
+    "pinned_tweet_ids_str": [
+      "1886570905251536904"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772964338472775680/1738253571",
+    "profile_interstitial_type": "",
+    "statuses_count": 2599,
+    "translator_type": "none",
+    "url": "https://t.co/LpdypN2ApG",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "個人"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyMzEyOTI4NTg3NTAxNTc2",
+  "rest_id": "1232312928587501576",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1894034673690447872/TIummfnD_normal.jpg"
+  },
+  "core": {
+    "created_at": "Tue Feb 25 14:35:00 +0000 2020",
+    "name": "猫百合イッサ🧪🧭 / StellarRealm",
+    "screen_name": "issa_nekoyuri"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@IssaNekoyuri",
+            "expanded_url": "https://www.youtube.com/@IssaNekoyuri",
+            "url": "https://t.co/HBQafCwwwK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 175403,
+    "followers_count": 10436,
+    "friends_count": 5910,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 129,
+    "media_count": 3576,
+    "normal_followers_count": 10436,
+    "pinned_tweet_ids_str": [
+      "1932443948771164219"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232312928587501576/1708765331",
+    "profile_interstitial_type": "",
+    "statuses_count": 33771,
+    "translator_type": "none",
+    "url": "https://t.co/HBQafCwwwK",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "VグループStellarRealm所属"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1590668747877982208",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 934,
+        "name": "ソーシャルメディアインフルエンサー",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjozNjgxMjA0NTA0",
+  "rest_id": "3681204504",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1932281352604553216/MMRsWv-8_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Sep 25 12:14:40 +0000 2015",
+    "name": "わぬ太🐊🫧",
+    "screen_name": "wanuta_"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "きみとの時間を『楽しい』にするワニのVTuber🐊 笑って泣いてよく叫ぶ.ᐟ.ᐟ癖強めで君を虜と食にする🍴┊看護師兼業💉┊  ᴀʟʟ #わぬみて ꜰᴀ #わぬの生態調査 ʟɪᴠᴇ #鰐肉定食 ꜰᴀɴ わぬっこ┊ꜱᴜʙ @subwanu ┊ʜᴘ ▸ https://t.co/6cKBXByUTZ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/wanuta",
+            "expanded_url": "http://lit.link/wanuta",
+            "url": "https://t.co/6cKBXByUTZ",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@wanuta_v",
+            "expanded_url": "https://www.youtube.com/@wanuta_v",
+            "url": "https://t.co/hg7xzGOsC5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 29112,
+    "followers_count": 2870,
+    "friends_count": 209,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 58,
+    "media_count": 2295,
+    "normal_followers_count": 2870,
+    "pinned_tweet_ids_str": [
+      "1966727033532411943"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3681204504/1749871449",
+    "profile_interstitial_type": "",
+    "statuses_count": 10639,
+    "translator_type": "none",
+    "url": "https://t.co/hg7xzGOsC5",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "▽リンクや詳細はさらに表示から⟡.· "
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1641682364094099459",
+    "professional_type": "Creator",
+    "category": []
+  },
+  "profile_bio": {
+    "description": "きみとの時間を『楽しい』にするワニのVTuber🐊 笑って泣いてよく叫ぶ.ᐟ.ᐟ癖強めで君を虜と食にする🍴┊看護師兼業💉┊  ᴀʟʟ #わぬみて ꜰᴀ #わぬの生態調査 ʟɪᴠᴇ #鰐肉定食 ꜰᴀɴ わぬっこ┊ꜱᴜʙ @subwanu ┊ʜᴘ ▸ https://t.co/6cKBXByUTZ"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": false
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxODUyNjc1NTgwMzA4OTU1MTM2",
+  "rest_id": "1852675580308955136",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1852683484051189760/GgbmEobX_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sat Nov 02 11:54:38 +0000 2024",
+    "name": "狐宙くお🩶🗝️ ✧新人VTuber✧",
+    "screen_name": "KozoraKuo"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "✧君を解明したい！謎解き系VTuber ￤ ✧Newrona所属 ￤ ✧もふもふのキツネ ￤ ✧夢(キラキラ)の探索者 ￤ ✧推しマーク🩶🗝️ ￤ ✧ファンネーム くおーつ ￤✧ HP https://t.co/KGflgrb7l6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/OdfnfChqwcdIrm…",
+            "expanded_url": "https://lit.link/OdfnfChqwcdIrmlyASNOYfaQurg1",
+            "url": "https://t.co/KGflgrb7l6",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@KozoraKuo",
+            "expanded_url": "https://www.youtube.com/@KozoraKuo",
+            "url": "https://t.co/10fKYjRaCW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 24557,
+    "followers_count": 2455,
+    "friends_count": 99,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 46,
+    "media_count": 1628,
+    "normal_followers_count": 2455,
+    "pinned_tweet_ids_str": [
+      "1855913460376498189"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852675580308955136/1730551924",
+    "profile_interstitial_type": "",
+    "statuses_count": 4596,
+    "translator_type": "none",
+    "url": "https://t.co/10fKYjRaCW",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "✧君を解明したい！謎解き系VTuber ￤ ✧Newrona所属 ￤ ✧もふもふのキツネ ￤ ✧夢(キラキラ)の探索者 ￤ ✧推しマーク🩶🗝️ ￤ ✧ファンネーム くおーつ ￤✧ HP https://t.co/KGflgrb7l6"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyNTU2NDg3Mzg3Mzg1ODU2",
+  "rest_id": "1232556487387385856",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1952603304430833664/G_DJ5lOL_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Feb 26 06:42:42 +0000 2020",
+    "name": "はにーらびっと🍯🐰VTuber",
+    "screen_name": "HoneyRabbit15"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "x.gd/xcIpj",
+            "expanded_url": "https://x.gd/xcIpj",
+            "url": "https://t.co/KInouOt18Z",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCBwQq…",
+            "expanded_url": "https://www.youtube.com/channel/UCBwQqO7WYMN7e232Lg92osg/featured?disable_polymer=1",
+            "url": "https://t.co/7FAyputnlf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 116754,
+    "followers_count": 4051,
+    "friends_count": 502,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 61,
+    "media_count": 2663,
+    "normal_followers_count": 4051,
+    "pinned_tweet_ids_str": [
+      "1815927593608306720"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232556487387385856/1758556838",
+    "profile_interstitial_type": "",
+    "statuses_count": 25157,
+    "translator_type": "none",
+    "url": "https://t.co/7FAyputnlf",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1614089386395852801",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 15,
+        "name": "エンターテイメント・レクリエーション",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjozNDQ0MTM3MTEz",
+  "rest_id": "3444137113",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1234683253434355713/MlpVsX8s_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Sep 04 04:07:40 +0000 2015",
+    "name": "GameWith@最新ゲーム情報局",
+    "screen_name": "gamewith_review"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "新作ゲームを探すのに特化したGameWith公式アカウントが、ゲーマーのための最新情報をお届けします！\n\nGameWith：https://t.co/NjdeUkPetY\nYouTube：https://t.co/aEhAaP3fa2\nお問い合わせ：https://t.co/4wv179Ltyu",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gamewith.jp",
+            "expanded_url": "https://gamewith.jp/",
+            "url": "https://t.co/NjdeUkPetY",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "display_url": "youtube.com/@GameWithTV",
+            "expanded_url": "https://www.youtube.com/@GameWithTV",
+            "url": "https://t.co/aEhAaP3fa2",
+            "indices": [
+              94,
+              117
+            ]
+          },
+          {
+            "display_url": "gamewith.jp/help",
+            "expanded_url": "https://gamewith.jp/help",
+            "url": "https://t.co/4wv179Ltyu",
+            "indices": [
+              125,
+              148
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gamewith.jp",
+            "expanded_url": "http://gamewith.jp",
+            "url": "https://t.co/slo219yi0K",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 1259,
+    "followers_count": 215565,
+    "friends_count": 1018,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 553,
+    "media_count": 28449,
+    "normal_followers_count": 215565,
+    "pinned_tweet_ids_str": [],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3444137113/1582702439",
+    "profile_interstitial_type": "",
+    "statuses_count": 30569,
+    "translator_type": "none",
+    "url": "https://t.co/slo219yi0K",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Square",
+  "profile_bio": {
+    "description": "新作ゲームを探すのに特化したGameWith公式アカウントが、ゲーマーのための最新情報をお届けします！\n\nGameWith：https://t.co/NjdeUkPetY\nYouTube：https://t.co/aEhAaP3fa2\nお問い合わせ：https://t.co/4wv179Ltyu"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false,
+    "verified_type": "Business"
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzcyOTY0MzM4NDcyNzc1Njgw",
+  "rest_id": "1772964338472775680",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1884998216737013760/6gGAAT-W_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Mar 27 12:30:32 +0000 2024",
+    "name": "狐森ろべ🍋🦊VTuber",
+    "screen_name": "lobe_VT"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "profcard.info/u/2uOPZClLd4Xy…",
+            "expanded_url": "https://profcard.info/u/2uOPZClLd4Xy6a42h5K3EkBvyth2",
+            "url": "https://t.co/XbKLeNF4Ej",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@komorilobe",
+            "expanded_url": "https://www.youtube.com/@komorilobe",
+            "url": "https://t.co/LpdypN2ApG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 5650,
+    "followers_count": 731,
+    "friends_count": 455,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 10,
+    "media_count": 1098,
+    "normal_followers_count": 731,
+    "pinned_tweet_ids_str": [
+      "1886570905251536904"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772964338472775680/1738253571",
+    "profile_interstitial_type": "",
+    "statuses_count": 2599,
+    "translator_type": "none",
+    "url": "https://t.co/LpdypN2ApG",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "個人"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "レモンサワーが好きな関西弁キツネVTuber #狐森ろべ\n/もふもふケモ好きゲーマー/ FA: #狐森美\n/ママ:@Meuka_v/衣装:@nemuke/ VRoid:@xmahiru_gohanx\n/詳細:https://t.co/XbKLeNF4Ej"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjcxMTA3ODEwNjEzMjc2Njcz",
+  "rest_id": "1271107810613276673",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1422067908239249414/RP7AQMso_normal.jpg"
+  },
+  "core": {
+    "created_at": "Thu Jun 11 15:51:40 +0000 2020",
+    "name": "雪咲ゆうか❄💙ゼツ猫杯優勝ありがとう🏆",
+    "screen_name": "yuuka_yukisaki"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "元気と笑顔をあなたにお届け！雪咲ゆうかです❄️【配信タグ→#雪国放送】【FA→#みてみてゆかりん】ママ(@NOYU23386566)/パパ(@597_lintz)❄https://t.co/8t1uiu1huQ ❄️お仕事はDMください✉鳴潮/ゼンゼロ/原神/アニメ同時視聴✨️",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@yukisaki_yuuka",
+            "expanded_url": "https://www.youtube.com/@yukisaki_yuuka",
+            "url": "https://t.co/8t1uiu1huQ",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "potofu.me/yukisaki-yuuka",
+            "expanded_url": "https://potofu.me/yukisaki-yuuka",
+            "url": "https://t.co/MDPo9X62Mp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 61970,
+    "followers_count": 5695,
+    "friends_count": 98,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 75,
+    "media_count": 4687,
+    "normal_followers_count": 5695,
+    "pinned_tweet_ids_str": [
+      "1990049059948908764"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271107810613276673/1719108612",
+    "profile_interstitial_type": "",
+    "statuses_count": 33940,
+    "translator_type": "none",
+    "url": "https://t.co/MDPo9X62Mp",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "リンクまとめてあります！▶︎"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "元気と笑顔をあなたにお届け！雪咲ゆうかです❄️【配信タグ→#雪国放送】【FA→#みてみてゆかりん】ママ(@NOYU23386566)/パパ(@597_lintz)❄https://t.co/8t1uiu1huQ ❄️お仕事はDMください✉鳴潮/ゼンゼロ/原神/アニメ同時視聴✨️"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjo4NzgzMTQzNDU0MDY0MTQ4NDk=",
+  "rest_id": "878314345406414849",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1907171340504961024/5vq6j8mU_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Jun 23 18:10:33 +0000 2017",
+    "name": "まなめお🍣🐾🍵manameo",
+    "screen_name": "manameo_game"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "ほぼ毎日配信するものデスっっ\n\nタグ→#まなめお見よ\nファンアート→#まなめお絵描き\nファンマーク→🍣🐾🍵\n\n各種リンクとほしいものリスト→https://t.co/iMG4274ukt\nお仕事実績→https://t.co/9LVNPJzvMX\nお仕事やコラボなど気軽にDMください",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/manameo",
+            "expanded_url": "http://lit.link/manameo",
+            "url": "https://t.co/iMG4274ukt",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "display_url": "fori.io/manameo",
+            "expanded_url": "http://fori.io/manameo",
+            "url": "https://t.co/9LVNPJzvMX",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtu.be/rJefrrY2DBI",
+            "expanded_url": "https://youtu.be/rJefrrY2DBI",
+            "url": "https://t.co/UkP4om7tXT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 13305,
+    "followers_count": 861,
+    "friends_count": 423,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 29,
+    "media_count": 7418,
+    "normal_followers_count": 861,
+    "pinned_tweet_ids_str": [
+      "1992550583753150588"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/878314345406414849/1723581988",
+    "profile_interstitial_type": "",
+    "statuses_count": 21863,
+    "translator_type": "none",
+    "url": "https://t.co/UkP4om7tXT",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1464218316479037445",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 959,
+        "name": "ゲーマー",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "ほぼ毎日配信するものデスっっ\n\nタグ→#まなめお見よ\nファンアート→#まなめお絵描き\nファンマーク→🍣🐾🍵\n\n各種リンクとほしいものリスト→https://t.co/iMG4274ukt\nお仕事実績→https://t.co/9LVNPJzvMX\nお仕事やコラボなど気軽にDMください"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMzUzMzA2ODU2MDk4MjA5Nzky",
+  "rest_id": "1353306856098209792",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1848274607578714112/qJzyYEIp_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Jan 24 11:41:22 +0000 2021",
+    "name": "ななゆ🐼📚Vtuber",
+    "screen_name": "7u_nanayu"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "#Vtuber の【ななゆ】です✨ パパ（@renkahasunogi） フリーランス声優 七瀬真結のV姿。 #声劇 #FF14  ♡ #あおぱんだ の声優。 #ごヴぉっち 配信切り抜きスクショ大歓迎！コラボのお誘いやご依頼は、7u.nanayu@gmailどっとこむ 若しくはDMまで！イラストのAI学習NG",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@VtuberNanayu",
+            "expanded_url": "http://youtube.com/@VtuberNanayu",
+            "url": "https://t.co/K89bMUmbgR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 27525,
+    "followers_count": 2485,
+    "friends_count": 1452,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 57,
+    "media_count": 4077,
+    "normal_followers_count": 2485,
+    "pinned_tweet_ids_str": [
+      "1843124331133710663"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353306856098209792/1734604946",
+    "profile_interstitial_type": "",
+    "statuses_count": 60640,
+    "translator_type": "none",
+    "url": "https://t.co/K89bMUmbgR",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "声はYouTubeショートなどから！"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1566946211781025793",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 15,
+        "name": "エンターテイメント・レクリエーション",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "#Vtuber の【ななゆ】です✨ パパ（@renkahasunogi） フリーランス声優 七瀬真結のV姿。 #声劇 #FF14  ♡ #あおぱんだ の声優。 #ごヴぉっち 配信切り抜きスクショ大歓迎！コラボのお誘いやご依頼は、7u.nanayu@gmailどっとこむ 若しくはDMまで！イラストのAI学習NG"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjozNjgxMjA0NTA0",
+  "rest_id": "3681204504",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1932281352604553216/MMRsWv-8_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Sep 25 12:14:40 +0000 2015",
+    "name": "わぬ太🐊🫧",
+    "screen_name": "wanuta_"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "きみとの時間を『楽しい』にするワニのVTuber🐊 笑って泣いてよく叫ぶ.ᐟ.ᐟ癖強めで君を虜と食にする🍴┊看護師兼業💉┊  ᴀʟʟ #わぬみて ꜰᴀ #わぬの生態調査 ʟɪᴠᴇ #鰐肉定食 ꜰᴀɴ わぬっこ┊ꜱᴜʙ @subwanu ┊ʜᴘ ▸ https://t.co/6cKBXByUTZ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/wanuta",
+            "expanded_url": "http://lit.link/wanuta",
+            "url": "https://t.co/6cKBXByUTZ",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@wanuta_v",
+            "expanded_url": "https://www.youtube.com/@wanuta_v",
+            "url": "https://t.co/hg7xzGOsC5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 29112,
+    "followers_count": 2870,
+    "friends_count": 209,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 58,
+    "media_count": 2295,
+    "normal_followers_count": 2870,
+    "pinned_tweet_ids_str": [
+      "1966727033532411943"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3681204504/1749871449",
+    "profile_interstitial_type": "",
+    "statuses_count": 10639,
+    "translator_type": "none",
+    "url": "https://t.co/hg7xzGOsC5",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "▽リンクや詳細はさらに表示から⟡.· "
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1641682364094099459",
+    "professional_type": "Creator",
+    "category": []
+  },
+  "profile_bio": {
+    "description": "きみとの時間を『楽しい』にするワニのVTuber🐊 笑って泣いてよく叫ぶ.ᐟ.ᐟ癖強めで君を虜と食にする🍴┊看護師兼業💉┊  ᴀʟʟ #わぬみて ꜰᴀ #わぬの生態調査 ʟɪᴠᴇ #鰐肉定食 ꜰᴀɴ わぬっこ┊ꜱᴜʙ @subwanu ┊ʜᴘ ▸ https://t.co/6cKBXByUTZ"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": false
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyMzEyOTI4NTg3NTAxNTc2",
+  "rest_id": "1232312928587501576",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1894034673690447872/TIummfnD_normal.jpg"
+  },
+  "core": {
+    "created_at": "Tue Feb 25 14:35:00 +0000 2020",
+    "name": "猫百合イッサ🧪🧭 / StellarRealm",
+    "screen_name": "issa_nekoyuri"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@IssaNekoyuri",
+            "expanded_url": "https://www.youtube.com/@IssaNekoyuri",
+            "url": "https://t.co/HBQafCwwwK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 175403,
+    "followers_count": 10436,
+    "friends_count": 5910,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 129,
+    "media_count": 3576,
+    "normal_followers_count": 10436,
+    "pinned_tweet_ids_str": [
+      "1932443948771164219"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232312928587501576/1708765331",
+    "profile_interstitial_type": "",
+    "statuses_count": 33771,
+    "translator_type": "none",
+    "url": "https://t.co/HBQafCwwwK",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "VグループStellarRealm所属"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1590668747877982208",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 934,
+        "name": "ソーシャルメディアインフルエンサー",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMzc4NTAzOTc4OTI1NzExMzYy",
+  "rest_id": "1378503978925711362",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1647546273694883841/2cftYtIF_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Apr 04 00:25:49 +0000 2021",
+    "name": "AttendMe@VTuber案件サービス",
+    "screen_name": "AttendMeJP"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "企業とVTuberをつなぐサービス「AttnedMe」をリリースしました！ゲーム・食べ物・機材など様々な案件に挑戦してみたいVTuberさんをお待ちしております✨",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "attendme.jp",
+            "expanded_url": "https://attendme.jp/",
+            "url": "https://t.co/YGddIjEblD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 7304,
+    "followers_count": 12013,
+    "friends_count": 4284,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 64,
+    "media_count": 495,
+    "normal_followers_count": 12013,
+    "pinned_tweet_ids_str": [
+      "1991431334003351620"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378503978925711362/1704499969",
+    "profile_interstitial_type": "",
+    "statuses_count": 1529,
+    "translator_type": "none",
+    "url": "https://t.co/YGddIjEblD",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "企業とVTuberをつなぐサービス「AttnedMe」をリリースしました！ゲーム・食べ物・機材など様々な案件に挑戦してみたいVTuberさんをお待ちしております✨"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMzUzMzA2ODU2MDk4MjA5Nzky",
+  "rest_id": "1353306856098209792",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1848274607578714112/qJzyYEIp_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Jan 24 11:41:22 +0000 2021",
+    "name": "ななゆ🐼📚Vtuber",
+    "screen_name": "7u_nanayu"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "#Vtuber の【ななゆ】です✨ パパ（@renkahasunogi） フリーランス声優 七瀬真結のV姿。 #声劇 #FF14  ♡ #あおぱんだ の声優。 #ごヴぉっち 配信切り抜きスクショ大歓迎！コラボのお誘いやご依頼は、7u.nanayu@gmailどっとこむ 若しくはDMまで！イラストのAI学習NG",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@VtuberNanayu",
+            "expanded_url": "http://youtube.com/@VtuberNanayu",
+            "url": "https://t.co/K89bMUmbgR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 27525,
+    "followers_count": 2485,
+    "friends_count": 1452,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 57,
+    "media_count": 4077,
+    "normal_followers_count": 2485,
+    "pinned_tweet_ids_str": [
+      "1843124331133710663"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353306856098209792/1734604946",
+    "profile_interstitial_type": "",
+    "statuses_count": 60640,
+    "translator_type": "none",
+    "url": "https://t.co/K89bMUmbgR",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "声はYouTubeショートなどから！"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1566946211781025793",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 15,
+        "name": "エンターテイメント・レクリエーション",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "#Vtuber の【ななゆ】です✨ パパ（@renkahasunogi） フリーランス声優 七瀬真結のV姿。 #声劇 #FF14  ♡ #あおぱんだ の声優。 #ごヴぉっち 配信切り抜きスクショ大歓迎！コラボのお誘いやご依頼は、7u.nanayu@gmailどっとこむ 若しくはDMまで！イラストのAI学習NG"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyMzEyOTI4NTg3NTAxNTc2",
+  "rest_id": "1232312928587501576",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1894034673690447872/TIummfnD_normal.jpg"
+  },
+  "core": {
+    "created_at": "Tue Feb 25 14:35:00 +0000 2020",
+    "name": "猫百合イッサ🧪🧭 / StellarRealm",
+    "screen_name": "issa_nekoyuri"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@IssaNekoyuri",
+            "expanded_url": "https://www.youtube.com/@IssaNekoyuri",
+            "url": "https://t.co/HBQafCwwwK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 175403,
+    "followers_count": 10436,
+    "friends_count": 5910,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 129,
+    "media_count": 3576,
+    "normal_followers_count": 10436,
+    "pinned_tweet_ids_str": [
+      "1932443948771164219"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232312928587501576/1708765331",
+    "profile_interstitial_type": "",
+    "statuses_count": 33771,
+    "translator_type": "none",
+    "url": "https://t.co/HBQafCwwwK",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "VグループStellarRealm所属"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1590668747877982208",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 934,
+        "name": "ソーシャルメディアインフルエンサー",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "┊イラストレーター＆錬金術師Vtuber\n┊Live2Dご依頼受付中\n┊案件は @stellar_realm にDMくださいませ\n┊ ご依頼以外のDMはNG❌️\n┊AI学習NG＆AIを使用したFA、トレスのFAもNG\n┊猫に百合は毒なので近づけないでね！"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNjE5MzU3NDAyNDM2MTA0MTky",
+  "rest_id": "1619357402436104192",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1916450074491822080/3j5Wzvnw_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sat Jan 28 15:31:44 +0000 2023",
+    "name": "ほしより🌏⚡Hoshiyori",
+    "screen_name": "hoooshiyori"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "ﾋﾞﾋﾞﾋﾞｯ꙳☄︎ CH登録1万人thanks┊美麗live2D完全個人VTuber┊お願い＆他link🔗https://t.co/Jwu9keJss0 ┊お仕事はDMまたは✉┊NIKKEガチめな攻略＆AC6&ダクソ&エバソ ┊@Cassandra2582  / @_Hisame_Sekka",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/hoooshiyori",
+            "expanded_url": "http://lit.link/hoooshiyori",
+            "url": "https://t.co/Jwu9keJss0",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@hoooshiyori?s…",
+            "expanded_url": "https://www.youtube.com/@hoooshiyori?sub_confirmation=1",
+            "url": "https://t.co/XT61eT5jmE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 15943,
+    "followers_count": 2296,
+    "friends_count": 449,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 29,
+    "media_count": 2127,
+    "normal_followers_count": 2296,
+    "pinned_tweet_ids_str": [
+      "1884519395223036033"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619357402436104192/1738669641",
+    "profile_interstitial_type": "",
+    "statuses_count": 11344,
+    "translator_type": "none",
+    "url": "https://t.co/XT61eT5jmE",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "✉kirraxhoshi014@gmail.com"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1621019654394347520",
+    "professional_type": "Creator",
+    "category": []
+  },
+  "profile_bio": {
+    "description": "ﾋﾞﾋﾞﾋﾞｯ꙳☄︎ CH登録1万人thanks┊美麗live2D完全個人VTuber┊お願い＆他link🔗https://t.co/Jwu9keJss0 ┊お仕事はDMまたは✉┊NIKKEガチめな攻略＆AC6&ダクソ&エバソ ┊@Cassandra2582  / @_Hisame_Sekka"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNDQ3MjA1NDk4Mjc3NjkxMzk5",
+  "rest_id": "1447205498277691399",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1642180875923357696/mqhLX4fP_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 10 14:21:09 +0000 2021",
+    "name": "如月たると🌙🥧",
+    "screen_name": "tart_ovox"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "最強最高に可愛いたるとﾁｬﾝ‼️記憶喪失の夢女子💭\n ︴💛FANBOX https://t.co/2D0ZaOnv5Y\n ︴🌙HP　https://t.co/GEz5z04zVE\n ︴🥧SUB @2tarto_kawaii",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "tartovox.fanbox.cc",
+            "expanded_url": "https://tartovox.fanbox.cc/",
+            "url": "https://t.co/2D0ZaOnv5Y",
+            "indices": [
+              36,
+              59
+            ]
+          },
+          {
+            "display_url": "lit.link/tartokisaragi",
+            "expanded_url": "https://lit.link/tartokisaragi",
+            "url": "https://t.co/GEz5z04zVE",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@kisaragitarto",
+            "expanded_url": "https://youtube.com/@kisaragitarto",
+            "url": "https://t.co/VZmSKGxBIe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 7845,
+    "followers_count": 2325,
+    "friends_count": 107,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 43,
+    "media_count": 2619,
+    "normal_followers_count": 2325,
+    "pinned_tweet_ids_str": [
+      "1689619438524608512"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447205498277691399/1759833329",
+    "profile_interstitial_type": "",
+    "statuses_count": 18150,
+    "translator_type": "none",
+    "url": "https://t.co/VZmSKGxBIe",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "大体週4で20時からYouTubeにて活動してるよ！"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "最強最高に可愛いたるとﾁｬﾝ‼️記憶喪失の夢女子💭\n ︴💛FANBOX https://t.co/2D0ZaOnv5Y\n ︴🌙HP　https://t.co/GEz5z04zVE\n ︴🥧SUB @2tarto_kawaii"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMzc4NTAzOTc4OTI1NzExMzYy",
+  "rest_id": "1378503978925711362",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1647546273694883841/2cftYtIF_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Apr 04 00:25:49 +0000 2021",
+    "name": "AttendMe@VTuber案件サービス",
+    "screen_name": "AttendMeJP"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "企業とVTuberをつなぐサービス「AttnedMe」をリリースしました！ゲーム・食べ物・機材など様々な案件に挑戦してみたいVTuberさんをお待ちしております✨",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "attendme.jp",
+            "expanded_url": "https://attendme.jp/",
+            "url": "https://t.co/YGddIjEblD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 7304,
+    "followers_count": 12013,
+    "friends_count": 4284,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 64,
+    "media_count": 495,
+    "normal_followers_count": 12013,
+    "pinned_tweet_ids_str": [
+      "1991431334003351620"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378503978925711362/1704499969",
+    "profile_interstitial_type": "",
+    "statuses_count": 1529,
+    "translator_type": "none",
+    "url": "https://t.co/YGddIjEblD",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "企業とVTuberをつなぐサービス「AttnedMe」をリリースしました！ゲーム・食べ物・機材など様々な案件に挑戦してみたいVTuberさんをお待ちしております✨"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzYxMDE1OTg0Mjg5NDE5MjY0",
+  "rest_id": "1761015984289419264",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1911487929186213889/DBBgyAce_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Feb 23 13:11:58 +0000 2024",
+    "name": "いぬちかこま🩵🐶💛（旧：ニート犬のこま）",
+    "screen_name": "210inu"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "⋆✦𝟐𝟎𝟐𝟒.𝟏.𝟒~✦⋆┋お喋りとクリームソーダが好き🩵💛犬と猫と暮らす近所の犬系Vtuber 🏠🐶 ┋💄お仕立て ⇒ runco様 🌷┋完全個人勢꙳⋆┋NIKKE実況メインに配信中🐾アニスの靴下食べたい犬┋(T)RPG・ホラーすき┋ お仕事のご連絡はDMまで💌 ┋画像動画の無断転載禁止",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCe1ek…",
+            "expanded_url": "https://www.youtube.com/channel/UCe1ekNch_vo0K41tWyY_5IA",
+            "url": "https://t.co/fDVaSOfEIR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 4306,
+    "followers_count": 1127,
+    "friends_count": 231,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 10,
+    "media_count": 1543,
+    "normal_followers_count": 1127,
+    "pinned_tweet_ids_str": [
+      "1911615606547513684"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761015984289419264/1760323257",
+    "profile_interstitial_type": "",
+    "statuses_count": 11149,
+    "translator_type": "none",
+    "url": "https://t.co/fDVaSOfEIR",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "保護犬・保護猫活動に貢献したい！"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "⋆✦𝟐𝟎𝟐𝟒.𝟏.𝟒~✦⋆┋お喋りとクリームソーダが好き🩵💛犬と猫と暮らす近所の犬系Vtuber 🏠🐶 ┋💄お仕立て ⇒ runco様 🌷┋完全個人勢꙳⋆┋NIKKE実況メインに配信中🐾アニスの靴下食べたい犬┋(T)RPG・ホラーすき┋ お仕事のご連絡はDMまで💌 ┋画像動画の無断転載禁止"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjMyNTU2NDg3Mzg3Mzg1ODU2",
+  "rest_id": "1232556487387385856",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1952603304430833664/G_DJ5lOL_normal.jpg"
+  },
+  "core": {
+    "created_at": "Wed Feb 26 06:42:42 +0000 2020",
+    "name": "はにーらびっと🍯🐰VTuber",
+    "screen_name": "HoneyRabbit15"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "x.gd/xcIpj",
+            "expanded_url": "https://x.gd/xcIpj",
+            "url": "https://t.co/KInouOt18Z",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCBwQq…",
+            "expanded_url": "https://www.youtube.com/channel/UCBwQqO7WYMN7e232Lg92osg/featured?disable_polymer=1",
+            "url": "https://t.co/7FAyputnlf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 116754,
+    "followers_count": 4051,
+    "friends_count": 502,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 61,
+    "media_count": 2663,
+    "normal_followers_count": 4051,
+    "pinned_tweet_ids_str": [
+      "1815927593608306720"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232556487387385856/1758556838",
+    "profile_interstitial_type": "",
+    "statuses_count": 25157,
+    "translator_type": "none",
+    "url": "https://t.co/7FAyputnlf",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1614089386395852801",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 15,
+        "name": "エンターテイメント・レクリエーション",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "個人VTuberはにーらびっと/HoneyRabbit です！よろしくお願いします！推しﾏ🍯🐰 〇FA #はにらーと🎨募集中✨(AIイラストは基本反応しません。)📨DMはお仕事関係以外ほぼお返事出来ません。Gipt🎁→https://t.co/KInouOt18Z"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjc4OTU3MDY4MzcyNjc2NjA4",
+  "rest_id": "1278957068372676608",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1672455940896067594/s8Ia6j3o_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Jul 03 07:41:49 +0000 2020",
+    "name": "栖夜まろみ🌌💤ダメぎゃる3巻11/27発売予定",
+    "screen_name": "suyamaromi"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "喘息持ちのマンガ家兼セルフ受肉配信者\n電撃だいおうじ連載中⏩️うしろの席のぎゃるに好かれてしまった。/完結にゃん太とポメ子\n諸々まとめ https://t.co/xDpFNtkjzE\nお仕事、案件ご依頼はDMまで✉️RTS対抗戦の案件はお受けしません\nサブ @maromi_sub",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/suyamaromi",
+            "expanded_url": "https://lit.link/suyamaromi",
+            "url": "https://t.co/xDpFNtkjzE",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@MaromiCh",
+            "expanded_url": "https://www.youtube.com/@MaromiCh",
+            "url": "https://t.co/uT6bKx9nYi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 26242,
+    "followers_count": 4302,
+    "friends_count": 818,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 76,
+    "media_count": 1905,
+    "normal_followers_count": 4302,
+    "pinned_tweet_ids_str": [
+      "1991793893403410475"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278957068372676608/1757049022",
+    "profile_interstitial_type": "",
+    "statuses_count": 25800,
+    "translator_type": "none",
+    "url": "https://t.co/uT6bKx9nYi",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "DMはご依頼専用です"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "喘息持ちのマンガ家兼セルフ受肉配信者\n電撃だいおうじ連載中⏩️うしろの席のぎゃるに好かれてしまった。/完結にゃん太とポメ子\n諸々まとめ https://t.co/xDpFNtkjzE\nお仕事、案件ご依頼はDMまで✉️RTS対抗戦の案件はお受けしません\nサブ @maromi_sub"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjo0MTM1MDkwNzAw",
+  "rest_id": "4135090700",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1697283361876905984/6urOeK_W_normal.jpg"
+  },
+  "core": {
+    "created_at": "Thu Nov 05 12:50:49 +0000 2015",
+    "name": "神 創可🖊🉑◢VOLL所属◤",
+    "screen_name": "Originarunero"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "かなえ そうか┊︎◢ VOLL所属 ◤@office_voll ┊2D 絵:私 動き:@_Hisame_Sekka キービジュ@Cassandra2582 ロゴ@BAR_MIBARA ┊#NIKKE ユルハ愛🦈💕┊📺#そうかのらいぶ 🎨#Souka_Art 🔍#どこさが創可 ┊︎詳細は「さらに表示」",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@SoukaKANAE",
+            "expanded_url": "https://www.youtube.com/@SoukaKANAE",
+            "url": "https://t.co/NagWs12xbh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 20903,
+    "followers_count": 1939,
+    "friends_count": 1281,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 79,
+    "media_count": 4807,
+    "normal_followers_count": 1939,
+    "pinned_tweet_ids_str": [
+      "1951564330375536982"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4135090700/1730545690",
+    "profile_interstitial_type": "",
+    "statuses_count": 50169,
+    "translator_type": "none",
+    "url": "https://t.co/NagWs12xbh",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "案件は事務所HPのお問い合わせからのみでお願い致します。"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1726596210591781086",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 952,
+        "name": "ブイロガー",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "かなえ そうか┊︎◢ VOLL所属 ◤@office_voll ┊2D 絵:私 動き:@_Hisame_Sekka キービジュ@Cassandra2582 ロゴ@BAR_MIBARA ┊#NIKKE ユルハ愛🦈💕┊📺#そうかのらいぶ 🎨#Souka_Art 🔍#どこさが創可 ┊︎詳細は「さらに表示」"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {
+    "is_enabled": true,
+    "bitcoin_handle": "",
+    "ethereum_handle": "0xef41D83744742605aaa930eFf8ef3E23a690C654",
+    "patreon_handle": "SoukaMama"
+  },
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMzU3NTE1MDQxOTEwNjQ4ODM4",
+  "rest_id": "1357515041910648838",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1964698781364236288/5zIxG1y3_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Feb 05 02:23:46 +0000 2021",
+    "name": "星園ゆい 関西弁Vtuber",
+    "screen_name": "hoshizono_yui"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "Twitchパートナー✧関西弁Vtuber星園ゆいです🩵YouTube(https://t.co/PxyNz2Bckq) Twitch(https://t.co/fVMgUeXuIo) V制作者(@hanamori_design)#星園LIVE #星園ゆい",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@HoshizonoYui",
+            "expanded_url": "https://www.youtube.com/@HoshizonoYui",
+            "url": "https://t.co/PxyNz2Bckq",
+            "indices": [
+              36,
+              59
+            ]
+          },
+          {
+            "display_url": "twitch.tv/hoshizono_yui",
+            "expanded_url": "https://twitch.tv/hoshizono_yui",
+            "url": "https://t.co/fVMgUeXuIo",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "lit.link/hoshizonoyui",
+            "expanded_url": "https://lit.link/hoshizonoyui",
+            "url": "https://t.co/zIe8Ck2UH0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 46094,
+    "followers_count": 2488,
+    "friends_count": 885,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 30,
+    "media_count": 1414,
+    "normal_followers_count": 2488,
+    "pinned_tweet_ids_str": [
+      "1977242511690334277"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357515041910648838/1740722502",
+    "profile_interstitial_type": "",
+    "statuses_count": 11804,
+    "translator_type": "none",
+    "url": "https://t.co/zIe8Ck2UH0",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "HP見てね💕"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "Twitchパートナー✧関西弁Vtuber星園ゆいです🩵YouTube(https://t.co/PxyNz2Bckq) Twitch(https://t.co/fVMgUeXuIo) V制作者(@hanamori_design)#星園LIVE #星園ゆい"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMjc4OTU3MDY4MzcyNjc2NjA4",
+  "rest_id": "1278957068372676608",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1672455940896067594/s8Ia6j3o_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Jul 03 07:41:49 +0000 2020",
+    "name": "栖夜まろみ🌌💤ダメぎゃる3巻11/27発売予定",
+    "screen_name": "suyamaromi"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": false,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "喘息持ちのマンガ家兼セルフ受肉配信者\n電撃だいおうじ連載中⏩️うしろの席のぎゃるに好かれてしまった。/完結にゃん太とポメ子\n諸々まとめ https://t.co/xDpFNtkjzE\nお仕事、案件ご依頼はDMまで✉️RTS対抗戦の案件はお受けしません\nサブ @maromi_sub",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/suyamaromi",
+            "expanded_url": "https://lit.link/suyamaromi",
+            "url": "https://t.co/xDpFNtkjzE",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@MaromiCh",
+            "expanded_url": "https://www.youtube.com/@MaromiCh",
+            "url": "https://t.co/uT6bKx9nYi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 26242,
+    "followers_count": 4302,
+    "friends_count": 818,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 76,
+    "media_count": 1905,
+    "normal_followers_count": 4302,
+    "pinned_tweet_ids_str": [
+      "1991793893403410475"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278957068372676608/1757049022",
+    "profile_interstitial_type": "",
+    "statuses_count": 25800,
+    "translator_type": "none",
+    "url": "https://t.co/uT6bKx9nYi",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "DMはご依頼専用です"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "喘息持ちのマンガ家兼セルフ受肉配信者\n電撃だいおうじ連載中⏩️うしろの席のぎゃるに好かれてしまった。/完結にゃん太とポメ子\n諸々まとめ https://t.co/xDpFNtkjzE\nお仕事、案件ご依頼はDMまで✉️RTS対抗戦の案件はお受けしません\nサブ @maromi_sub"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNDA4NDY0MTkwOTY1MDQzMjAw",
+  "rest_id": "1408464190965043200",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1925922577110732800/SNOX8Lpw_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Jun 25 16:36:57 +0000 2021",
+    "name": "熨斗目 メナ❄️💎",
+    "screen_name": "noshime_mena"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "氷の魔女Vtuber ❄️💎┊︎ 𝘴𝘪𝘯𝘨 ┊︎ 𝘨𝘢𝘮𝘦 ┊︎𝘢𝘭𝘭 #めなみな┊︎𝘭𝘪𝘷𝘦 #氷彗の茶会┊︎𝘍𝘈 #蒼氷の絵画┊︎𝘮𝘰𝘮 @bshi_edayo┊︎𝘴𝘶𝘣 @menanomahou┊︎https://t.co/q7uZz8kzi9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/noshimemena",
+            "expanded_url": "http://lit.link/noshimemena",
+            "url": "https://t.co/q7uZz8kzi9",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@noshime_mena",
+            "expanded_url": "https://www.youtube.com/@noshime_mena",
+            "url": "https://t.co/mhq95Xjx4r",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 69466,
+    "followers_count": 2643,
+    "friends_count": 978,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 74,
+    "media_count": 3561,
+    "normal_followers_count": 2643,
+    "pinned_tweet_ids_str": [
+      "1992600913446666526"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408464190965043200/1735116063",
+    "profile_interstitial_type": "",
+    "statuses_count": 35547,
+    "translator_type": "none",
+    "url": "https://t.co/mhq95Xjx4r",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "2022.11.23 Debut"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "氷の魔女Vtuber ❄️💎┊︎ 𝘴𝘪𝘯𝘨 ┊︎ 𝘨𝘢𝘮𝘦 ┊︎𝘢𝘭𝘭 #めなみな┊︎𝘭𝘪𝘷𝘦 #氷彗の茶会┊︎𝘍𝘈 #蒼氷の絵画┊︎𝘮𝘰𝘮 @bshi_edayo┊︎𝘴𝘶𝘣 @menanomahou┊︎https://t.co/q7uZz8kzi9"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxODUyNjc1NTgwMzA4OTU1MTM2",
+  "rest_id": "1852675580308955136",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1852683484051189760/GgbmEobX_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sat Nov 02 11:54:38 +0000 2024",
+    "name": "狐宙くお🩶🗝️ ✧新人VTuber✧",
+    "screen_name": "KozoraKuo"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "✧君を解明したい！謎解き系VTuber ￤ ✧Newrona所属 ￤ ✧もふもふのキツネ ￤ ✧夢(キラキラ)の探索者 ￤ ✧推しマーク🩶🗝️ ￤ ✧ファンネーム くおーつ ￤✧ HP https://t.co/KGflgrb7l6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lit.link/OdfnfChqwcdIrm…",
+            "expanded_url": "https://lit.link/OdfnfChqwcdIrmlyASNOYfaQurg1",
+            "url": "https://t.co/KGflgrb7l6",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@KozoraKuo",
+            "expanded_url": "https://www.youtube.com/@KozoraKuo",
+            "url": "https://t.co/10fKYjRaCW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 24557,
+    "followers_count": 2455,
+    "friends_count": 99,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 46,
+    "media_count": 1628,
+    "normal_followers_count": 2455,
+    "pinned_tweet_ids_str": [
+      "1855913460376498189"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852675580308955136/1730551924",
+    "profile_interstitial_type": "",
+    "statuses_count": 4596,
+    "translator_type": "none",
+    "url": "https://t.co/10fKYjRaCW",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": ""
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "✧君を解明したい！謎解き系VTuber ￤ ✧Newrona所属 ￤ ✧もふもふのキツネ ￤ ✧夢(キラキラ)の探索者 ￤ ✧推しマーク🩶🗝️ ￤ ✧ファンネーム くおーつ ￤✧ HP https://t.co/KGflgrb7l6"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzA4NDUzMDk3MzY5MTY1ODI0",
+  "rest_id": "1708453097369165824",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1853580986904399873/nvtjaRk2_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Oct 01 12:06:00 +0000 2023",
+    "name": "推使みゅな❕️💸 誕生日グッズ ˊ˗",
+    "screen_name": "OshitsukaMyuna"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@OshitsukaMyuna",
+            "expanded_url": "https://youtube.com/@OshitsukaMyuna",
+            "url": "https://t.co/jS92P8wNph",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 21070,
+    "followers_count": 1884,
+    "friends_count": 172,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 41,
+    "media_count": 1436,
+    "normal_followers_count": 1884,
+    "pinned_tweet_ids_str": [
+      "1992504161766981857"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708453097369165824/1762182163",
+    "profile_interstitial_type": "",
+    "statuses_count": 13766,
+    "translator_type": "none",
+    "url": "https://t.co/jS92P8wNph",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "各無断使用、AIへの学習や使用は禁止です✕"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "清楚な全方位型二次元限界ヲタク￤ほぼ専業個人Vtuber(@maccormick_4_4 × @Metenee_28)￤所属(@mahoroba_vt)￤#ストグラ ( RP #推使みゅあ )"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjo5OTQ4NjYxNDQ4MDM3NzAzNjk=",
+  "rest_id": "994866144803770369",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1970568829236649984/yhsjZLFG_normal.png"
+  },
+  "core": {
+    "created_at": "Fri May 11 09:05:47 +0000 2018",
+    "name": "リア@VTuber 🎧A.I.VOICE RIA2好評発売中！！",
+    "screen_name": "riachan_nel"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "バーチャルYouTuberのリア（RIA）です♪皆との交流を大切に活動してます！世界一身近な存在でありたい🎧 リアPとして年内ボカロPデビュー予定♫  #やしお支部🎨#リアのアトリエ▶️#リア生／A.I.VOICE RIA2 音声合成ソフト好評発売中🎤",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "riavtuber.com",
+            "expanded_url": "https://www.riavtuber.com/",
+            "url": "https://t.co/bJv2b2ipS2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 414773,
+    "followers_count": 31363,
+    "friends_count": 21819,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 366,
+    "media_count": 9891,
+    "normal_followers_count": 31363,
+    "pinned_tweet_ids_str": [
+      "1992714524907151494"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/994866144803770369/1758655272",
+    "profile_interstitial_type": "",
+    "statuses_count": 270043,
+    "translator_type": "none",
+    "url": "https://t.co/bJv2b2ipS2",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "お仕事のご依頼はDM、HPから"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1476813819989364741",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 940,
+        "name": "ミュージシャン",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "profile_bio": {
+    "description": "バーチャルYouTuberのリア（RIA）です♪皆との交流を大切に活動してます！世界一身近な存在でありたい🎧 リアPとして年内ボカロPデビュー予定♫  #やしお支部🎨#リアのアトリエ▶️#リア生／A.I.VOICE RIA2 音声合成ソフト好評発売中🎤"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNzYxMDE1OTg0Mjg5NDE5MjY0",
+  "rest_id": "1761015984289419264",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1911487929186213889/DBBgyAce_normal.jpg"
+  },
+  "core": {
+    "created_at": "Fri Feb 23 13:11:58 +0000 2024",
+    "name": "いぬちかこま🩵🐶💛（旧：ニート犬のこま）",
+    "screen_name": "210inu"
+  },
+  "dm_permissions": {
+    "can_dm": true
+  },
+  "follow_request_sent": false,
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "⋆✦𝟐𝟎𝟐𝟒.𝟏.𝟒~✦⋆┋お喋りとクリームソーダが好き🩵💛犬と猫と暮らす近所の犬系Vtuber 🏠🐶 ┋💄お仕立て ⇒ runco様 🌷┋完全個人勢꙳⋆┋NIKKE実況メインに配信中🐾アニスの靴下食べたい犬┋(T)RPG・ホラーすき┋ お仕事のご連絡はDMまで💌 ┋画像動画の無断転載禁止",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCe1ek…",
+            "expanded_url": "https://www.youtube.com/channel/UCe1ekNch_vo0K41tWyY_5IA",
+            "url": "https://t.co/fDVaSOfEIR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 4306,
+    "followers_count": 1127,
+    "friends_count": 231,
+    "has_custom_timelines": false,
+    "is_translator": false,
+    "listed_count": 10,
+    "media_count": 1543,
+    "normal_followers_count": 1127,
+    "pinned_tweet_ids_str": [
+      "1911615606547513684"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761015984289419264/1760323257",
+    "profile_interstitial_type": "",
+    "statuses_count": 11149,
+    "translator_type": "none",
+    "url": "https://t.co/fDVaSOfEIR",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "保護犬・保護猫活動に貢献したい！"
+  },
+  "media_permissions": {
+    "can_media_tag": false
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "profile_bio": {
+    "description": "⋆✦𝟐𝟎𝟐𝟒.𝟏.𝟒~✦⋆┋お喋りとクリームソーダが好き🩵💛犬と猫と暮らす近所の犬系Vtuber 🏠🐶 ┋💄お仕立て ⇒ runco様 🌷┋完全個人勢꙳⋆┋NIKKE実況メインに配信中🐾アニスの靴下食べたい犬┋(T)RPG・ホラーすき┋ お仕事のご連絡はDMまで💌 ┋画像動画の無断転載禁止"
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "profile_description_language": "ja"
+}
+====================
