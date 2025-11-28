@@ -2,11 +2,12 @@ services:
   - type: web
     name: x-tag-scraper-backend
     env: python
-    rootDir: backend
     buildCommand: |
+      cd backend
       pip install -r requirements.txt
     startCommand: |
       playwright install chromium
+      cd backend
       uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
