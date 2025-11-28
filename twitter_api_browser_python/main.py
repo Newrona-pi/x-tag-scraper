@@ -1,5 +1,7 @@
 import asyncio
 import json
+import os
+from pathlib import Path
 from typing import TypeVar, Optional, Dict, Any
 
 from aiofiles import open
@@ -9,8 +11,9 @@ T = TypeVar("T")
 
 
 async def load_script(path: str) -> str:
-    dir = "./twitter_api_browser_python/inject/"
-    async with open(f"{dir}{path}", "r", encoding="utf-8") as f:
+    # このファイルの場所を基準にinjectディレクトリのパスを取得
+    script_dir = Path(__file__).parent / "inject"
+    async with open(script_dir / path, "r", encoding="utf-8") as f:
         return await f.read()
 
 
