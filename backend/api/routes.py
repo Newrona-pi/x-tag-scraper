@@ -87,21 +87,39 @@ async def collect_tweets(
         "limit": 100
     }
     """
+    # デバッグ用ログ
+    print(f"[DEBUG] Received request - hashtag: {hashtag}, start_date: {start_date}, end_date: {end_date}, limit: {limit}")
+    print(f"[DEBUG] File: {file.filename}, content_type: {file.content_type}")
+    
     # ファイルからセッションJSONを読み込む
     try:
         content = await file.read()
+        print(f"[DEBUG] File content length: {len(content)} bytes")
         session_data = load_session_from_json(json.loads(content))
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="無効なJSONファイルです")
+        print(f"[DEBUG] Session data loaded successfully")
+    except json.JSONDecodeError as e:
+        print(f"[ERROR] JSON decode error: {e}")
+        raise HTTPException(status_code=400, detail=f"無効なJSONファイルです: {str(e)}")
     except ValueError as e:
+        print(f"[ERROR] Value error: {e}")
         raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        print(f"[ERROR] Unexpected error reading file: {e}")
+        raise HTTPException(status_code=400, detail=f"ファイル読み込みエラー: {str(e)}")
     
     # パラメータを取得（クエリパラメータまたはリクエストボディから）
     if not all([hashtag, start_date, end_date]):
-        raise HTTPException(status_code=400, detail="hashtag, start_date, end_dateは必須です")
+        missing = []
+        if not hashtag: missing.append("hashtag")
+        if not start_date: missing.append("start_date")
+        if not end_date: missing.append("end_date")
+        error_msg = f"必須パラメータが不足しています: {', '.join(missing)}"
+        print(f"[ERROR] {error_msg}")
+        raise HTTPException(status_code=400, detail=error_msg)
     
     # ジョブIDを生成
     job_id = str(uuid.uuid4())
+    print(f"[INFO] Created job: {job_id}")
     
     # ジョブを初期化
     jobs[job_id] = {
