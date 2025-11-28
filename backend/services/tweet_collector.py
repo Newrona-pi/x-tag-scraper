@@ -54,7 +54,7 @@ async def collect_tweets_from_session(
                 await progress_callback(0, limit, "ブラウザを起動しています...")
             
             # インジェクションスクリプトを実行
-            inject = await browser.inject()
+            inject = await browser.inject(sleep=2)  # 初期化待機時間を短縮
             
             if progress_callback:
                 await progress_callback(0, limit, "ツイート収集を開始しています...")
@@ -227,7 +227,7 @@ async def collect_tweets_from_session(
                         break
                     
                     cursor = bottom_cursor
-                    await asyncio.sleep(2)
+                    await asyncio.sleep(0.5)  # リクエスト間隔を短縮（レート制限に注意）
 
                 except KeyError as e:
                     error_msg = f"レスポンスパースエラー: {e}"
@@ -243,7 +243,7 @@ async def collect_tweets_from_session(
         # CSVに書き込み
         if collected_tweets:
             os.makedirs(os.path.dirname(output_file) if os.path.dirname(output_file) else ".", exist_ok=True)
-            with open(output_file, "w", newline="", encoding="utf-8") as f:
+            with open(output_file, "w", newline="", encoding="utf-8-sig") as f:
                 writer = csv.DictWriter(f, fieldnames=collected_tweets[0].keys())
                 writer.writeheader()
                 writer.writerows(collected_tweets)
