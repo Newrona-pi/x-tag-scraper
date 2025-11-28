@@ -6,7 +6,7 @@ import uuid
 import json
 import asyncio
 from typing import Dict, Any
-from fastapi import APIRouter, UploadFile, File, HTTPException, BackgroundTasks
+from fastapi import APIRouter, UploadFile, File, Form, HTTPException, BackgroundTasks
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
@@ -71,10 +71,10 @@ async def run_collection_job(job_id: str, session_data: Dict[str, Any], params: 
 async def collect_tweets(
     background_tasks: BackgroundTasks,
     file: UploadFile = File(...),
-    hashtag: str = None,
-    start_date: str = None,
-    end_date: str = None,
-    limit: int = 100
+    hashtag: str = Form(...),
+    start_date: str = Form(...),
+    end_date: str = Form(...),
+    limit: int = Form(100)
 ):
     """
     ツイート収集を開始
