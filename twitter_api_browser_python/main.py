@@ -1,9 +1,9 @@
 import asyncio
 import json
-from typing import TypeVar
+from typing import TypeVar, Optional, Dict, Any
 
 from aiofiles import open
-from playwright.async_api import Page, async_playwright
+from playwright.async_api import Page, async_playwright, BrowserContext
 
 T = TypeVar("T")
 
@@ -23,25 +23,64 @@ def one(data: list[T], name: str = "item") -> T:
 
 
 class TwitterAPIBrowser:
-    def __init__(self, user_data_dir: str = "./.data"):
+    def __init__(self, user_data_dir: str = "./.data", session_json: Optional[Dict[str, Any]] = None, headless: bool = True):
         self.user_data_dir = user_data_dir
+        self.session_json = session_json
+        self.headless = headless
 
     async def __aenter__(self):
         self.playwright_manager = async_playwright()
         self.playwright = await self.playwright_manager.__aenter__()
-        self.browser = await self.playwright.chromium.launch_persistent_context(
-            headless=False,
-            user_data_dir=self.user_data_dir,
-            viewport=None,
-            args=[
-                "--disable-blink-features=AutomationControlled",
-            ],
-        )
-        self.page = await self.browser.new_page()
+        
+        if self.session_json:
+            # セッションJSONから復元する場合
+            self.browser = await self.playwright.chromium.launch(
+                headless=self.headless,
+                args=[
+                    "--disable-blink-features=AutomationControlled",
+                ],
+            )
+            context = await self.browser.new_context(
+                viewport=None,
+            )
+            self.page = await context.new_page()
+            
+            # クッキーを復元
+            if "cookies" in self.session_json:
+                await context.add_cookies(self.session_json["cookies"])
+            
+            # ローカルストレージとセッションストレージを復元
+            await self.page.goto("https://x.com/home")
+            if "localStorage" in self.session_json and self.session_json["localStorage"]:
+                # localStorageを一度に設定
+                await self.page.evaluate(
+                    f"Object.entries({json.dumps(self.session_json['localStorage'])}).forEach(([k, v]) => localStorage.setItem(k, v))"
+                )
+            if "sessionStorage" in self.session_json and self.session_json["sessionStorage"]:
+                # sessionStorageを一度に設定
+                await self.page.evaluate(
+                    f"Object.entries({json.dumps(self.session_json['sessionStorage'])}).forEach(([k, v]) => sessionStorage.setItem(k, v))"
+                )
+        else:
+            # 従来の方法（user_data_dirを使用）
+            self.browser = await self.playwright.chromium.launch_persistent_context(
+                headless=self.headless,
+                user_data_dir=self.user_data_dir,
+                viewport=None,
+                args=[
+                    "--disable-blink-features=AutomationControlled",
+                ],
+            )
+            self.page = await self.browser.new_page()
         return self
 
     async def __aexit__(self, exc_type, exc, tb):
-        await self.browser.close()
+        if self.session_json:
+            # 通常のブラウザコンテキストの場合
+            await self.browser.close()
+        else:
+            # 永続コンテキストの場合
+            await self.browser.close()
         await self.playwright_manager.__aexit__(exc_type, exc, tb)
 
     async def login(self):
