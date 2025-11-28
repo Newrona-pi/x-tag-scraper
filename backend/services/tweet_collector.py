@@ -19,7 +19,7 @@ from twitter_api_browser_python.main import TwitterAPIBrowser
 
 async def collect_tweets_from_session(
     session_json: Dict[str, Any],
-    hashtag: str,
+    keyword: str,
     start_date: str,
     end_date: str,
     output_file: str,
@@ -31,7 +31,7 @@ async def collect_tweets_from_session(
     
     Args:
         session_json: セッションJSONデータ
-        hashtag: 検索するハッシュタグ（例: "#Python"）
+        keyword: 検索ワード（ハッシュタグまたはキーワード）
         start_date: 開始日（YYYY-MM-DD形式）
         end_date: 終了日（YYYY-MM-DD形式）
         output_file: 出力CSVファイルのパス
@@ -43,7 +43,7 @@ async def collect_tweets_from_session(
     """
     try:
         # 検索クエリを構築
-        query = f"{hashtag} since:{start_date} until:{end_date}"
+        query = f"{keyword} since:{start_date} until:{end_date}"
         
         if progress_callback:
             await progress_callback(0, limit, f"検索クエリ: {query}")
@@ -188,7 +188,7 @@ async def collect_tweets_from_session(
 
                                 # ハッシュタグ
                                 hashtags = [tag["text"] for tag in legacy.get("entities", {}).get("hashtags", [])]
-                                search_tag_clean = hashtag.replace("#", "").lower()
+                                search_tag_clean = keyword.replace("#", "").lower()
                                 other_tags = [f"#{tag}" for tag in hashtags if tag.lower() != search_tag_clean]
                                 
                                 tweet_data = {

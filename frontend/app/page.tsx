@@ -18,7 +18,7 @@ interface JobStatus {
 
 export default function Home() {
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
-  const [hashtag, setHashtag] = useState("");
+  const [keyword, setKeyword] = useState("");
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [limit, setLimit] = useState("100");
@@ -53,7 +53,7 @@ export default function Home() {
       return;
     }
 
-    if (!hashtag || !startDate || !endDate) {
+    if (!keyword || !startDate || !endDate) {
       alert("すべての必須項目を入力してください");
       return;
     }
@@ -63,7 +63,7 @@ export default function Home() {
     try {
       const formData = new FormData();
       formData.append("file", selectedFile);
-      formData.append("hashtag", hashtag);
+      formData.append("keyword", keyword);
       formData.append("start_date", startDate);
       formData.append("end_date", endDate);
       formData.append("limit", limit);
@@ -165,11 +165,11 @@ export default function Home() {
             />
 
             <FormInput
-              label="ハッシュタグ"
+              label="キーワード / ハッシュタグ"
               type="text"
-              value={hashtag}
-              onChange={setHashtag}
-              placeholder="#Python"
+              value={keyword}
+              onChange={setKeyword}
+              placeholder="#Python / Python"
               required
             />
 

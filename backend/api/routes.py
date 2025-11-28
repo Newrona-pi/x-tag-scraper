@@ -24,7 +24,7 @@ OUTPUT_DIR = "./output"
 
 class CollectRequest(BaseModel):
     """ツイート収集リクエスト"""
-    hashtag: str
+    keyword: str
     start_date: str
     end_date: str
     limit: int = 100
@@ -47,7 +47,7 @@ async def run_collection_job(job_id: str, session_data: Dict[str, Any], params: 
     try:
         result = await collect_tweets_from_session(
             session_json=session_data,
-            hashtag=params.hashtag,
+            keyword=params.keyword,
             start_date=params.start_date,
             end_date=params.end_date,
             output_file=output_file,
@@ -71,7 +71,7 @@ async def run_collection_job(job_id: str, session_data: Dict[str, Any], params: 
 async def collect_tweets(
     background_tasks: BackgroundTasks,
     file: UploadFile = File(...),
-    hashtag: str = Form(...),
+    keyword: str = Form(...),
     start_date: str = Form(...),
     end_date: str = Form(...),
     limit: int = Form(100)
@@ -81,14 +81,14 @@ async def collect_tweets(
     
     リクエストボディにJSONパラメータを含めることも可能:
     {
-        "hashtag": "#Python",
+        "keyword": "#Python",
         "start_date": "2023-01-01",
         "end_date": "2023-12-31",
         "limit": 100
     }
     """
     # デバッグ用ログ
-    print(f"[DEBUG] Received request - hashtag: {hashtag}, start_date: {start_date}, end_date: {end_date}, limit: {limit}")
+    print(f"[DEBUG] Received request - keyword: {keyword}, start_date: {start_date}, end_date: {end_date}, limit: {limit}")
     print(f"[DEBUG] File: {file.filename}, content_type: {file.content_type}")
     
     # ファイルからセッションJSONを読み込む
@@ -108,9 +108,9 @@ async def collect_tweets(
         raise HTTPException(status_code=400, detail=f"ファイル読み込みエラー: {str(e)}")
     
     # パラメータを取得（クエリパラメータまたはリクエストボディから）
-    if not all([hashtag, start_date, end_date]):
+    if not all([keyword, start_date, end_date]):
         missing = []
-        if not hashtag: missing.append("hashtag")
+        if not keyword: missing.append("keyword")
         if not start_date: missing.append("start_date")
         if not end_date: missing.append("end_date")
         error_msg = f"必須パラメータが不足しています: {', '.join(missing)}"
@@ -127,7 +127,7 @@ async def collect_tweets(
         "progress": 0,
         "total": limit,
         "message": "待機中...",
-        "hashtag": hashtag,
+        "hashtag": keyword,
         "start_date": start_date,
         "end_date": end_date,
         "limit": limit
@@ -135,7 +135,7 @@ async def collect_tweets(
     
     # バックグラウンドタスクとして実行
     params = CollectRequest(
-        hashtag=hashtag,
+        keyword=keyword,
         start_date=start_date,
         end_date=end_date,
         limit=limit
