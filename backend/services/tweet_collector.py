@@ -213,23 +213,35 @@ async def collect_tweets_from_session(
                         break
 
                     # カーソルを抽出
+                    print(f"[DEBUG] Extracting cursor from instructions: {len(instructions)} items")
                     for instruction in instructions:
+                        # print(f"[DEBUG] Instruction type: {instruction.get('type')}")
                         if instruction["type"] == "TimelineAddEntries":
                             for entry in instruction["entries"]:
                                 if entry["content"]["entryType"] == "TimelineTimelineCursor" and entry["content"]["cursorType"] == "Bottom":
                                     bottom_cursor = entry["content"]["value"]
+                                    print(f"[DEBUG] Found cursor in TimelineAddEntries: {bottom_cursor[:20]}...")
                         elif instruction["type"] == "TimelineReplaceEntry":
                             if instruction["entry"]["content"]["entryType"] == "TimelineTimelineCursor" and instruction["entry"]["content"]["cursorType"] == "Bottom":
                                 bottom_cursor = instruction["entry"]["content"]["value"]
+                                print(f"[DEBUG] Found cursor in TimelineReplaceEntry: {bottom_cursor[:20]}...")
 
                     if not bottom_cursor:
                         for entry in entries:
                             if entry["content"]["entryType"] == "TimelineTimelineCursor" and entry["content"]["cursorType"] == "Bottom":
                                 bottom_cursor = entry["content"]["value"]
+                                print(f"[DEBUG] Found cursor in entries: {bottom_cursor[:20]}...")
+
+                    if not bottom_cursor:
+                        print("[DEBUG] No cursor found in response")
+                        # デバッグ用にレスポンス構造の一部を出力（必要なら）
+                        # print(json.dumps(instructions, indent=2)[:500])
 
                     if not bottom_cursor or bottom_cursor == cursor:
                         if progress_callback:
-                            await progress_callback(len(collected_tweets), limit, "タイムラインの終端に到達しました")
+                            msg = "タイムラインの終端に到達しました" if not bottom_cursor else "カーソルが更新されませんでした（終端）"
+                            print(f"[DEBUG] {msg}")
+                            await progress_callback(len(collected_tweets), limit, msg)
                         break
                     
                     cursor = bottom_cursor
