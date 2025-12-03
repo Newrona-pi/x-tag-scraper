@@ -82,12 +82,15 @@ async def collect_tweets_from_session(
                     variables["cursor"] = cursor
 
                 try:
+                    print(f"[DEBUG] Requesting SearchTimeline (cursor: {cursor[:20] if cursor else 'None'})...")
                     res = await inject.request(
                         "SearchTimeline",
                         variables
                     )
+                    print("[DEBUG] Response received.")
                 except Exception as e:
                     error_msg = f"リクエストエラー: {e}"
+                    print(f"[ERROR] {error_msg}")
                     if progress_callback:
                         await progress_callback(len(collected_tweets), limit, error_msg)
                     break
@@ -245,7 +248,8 @@ async def collect_tweets_from_session(
                         break
                     
                     cursor = bottom_cursor
-                    await asyncio.sleep(0.5)  # リクエスト間隔を短縮（レート制限に注意）
+                    print(f"[DEBUG] Sleeping for 2.0 seconds...")
+                    await asyncio.sleep(2.0)  # 待機時間を0.5秒から2.0秒に延長して負荷軽減
 
                 except KeyError as e:
                     error_msg = f"レスポンスパースエラー: {e}"
