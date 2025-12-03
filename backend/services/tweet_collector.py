@@ -42,8 +42,8 @@ async def collect_tweets_from_session(
         収集結果の辞書（tweet_count, output_file, error）
     """
     try:
-        # 検索クエリを構築（日本時間 JST を指定）
-        query = f"{keyword} since:{start_date}_00:00:00_JST until:{end_date}_23:59:59_JST"
+        # 検索クエリを構築
+        query = f"{keyword} since:{start_date} until:{end_date}"
         
         if progress_callback:
             await progress_callback(0, limit, f"検索クエリ: {query}")
