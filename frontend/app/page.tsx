@@ -200,8 +200,9 @@ export default function Home() {
               type="text"
               value={keyword}
               onChange={setKeyword}
-              placeholder={searchType === "hashtag" ? "#Python" : "Python"}
+              placeholder={searchType === "hashtag" ? "Python" : "Python"}
               required
+              prefix={searchType === "hashtag" ? "#" : undefined}
             />
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -261,10 +262,10 @@ export default function Home() {
                   <div className="w-full bg-gray-200 rounded-full h-2.5">
                     <div
                       className={`h-2.5 rounded-full transition-all ${jobStatus.status === "completed"
-                          ? "bg-green-500"
-                          : jobStatus.status === "error"
-                            ? "bg-red-500"
-                            : "bg-blue-500"
+                        ? "bg-green-500"
+                        : jobStatus.status === "error"
+                          ? "bg-red-500"
+                          : "bg-blue-500"
                         }`}
                       style={{
                         width: `${(jobStatus.progress / jobStatus.total) * 100}%`,
