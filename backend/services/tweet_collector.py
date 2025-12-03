@@ -81,18 +81,40 @@ async def collect_tweets_from_session(
                 if cursor:
                     variables["cursor"] = cursor
 
-                try:
-                    print(f"[DEBUG] Requesting SearchTimeline (cursor: {cursor[:20] if cursor else 'None'})...")
-                    res = await inject.request(
-                        "SearchTimeline",
-                        variables
-                    )
-                    print("[DEBUG] Response received.")
-                except Exception as e:
-                    error_msg = f"リクエストエラー: {e}"
-                    print(f"[ERROR] {error_msg}")
-                    if progress_callback:
-                        await progress_callback(len(collected_tweets), limit, error_msg)
+                # リトライロジック
+                max_retries = 3
+                retry_count = 0
+                res = None
+                
+                while retry_count < max_retries:
+                    try:
+                        print(f"[DEBUG] Requesting SearchTimeline (cursor: {cursor[:20] if cursor else 'None'})... (Attempt {retry_count + 1}/{max_retries})")
+                        
+                        # 30秒のタイムアウトを設定
+                        res = await asyncio.wait_for(
+                            inject.request("SearchTimeline", variables),
+                            timeout=30.0
+                        )
+                        print("[DEBUG] Response received.")
+                        break # 成功したらループを抜ける
+                        
+                    except asyncio.TimeoutError:
+                        retry_count += 1
+                        print(f"[WARN] Request timed out. Retrying... ({retry_count}/{max_retries})")
+                        if retry_count < max_retries:
+                            await asyncio.sleep(5.0) # リトライ前に少し待つ
+                        
+                    except Exception as e:
+                        error_msg = f"リクエストエラー: {e}"
+                        print(f"[ERROR] {error_msg}")
+                        # その他のエラーはリトライせずに終了
+                        if progress_callback:
+                            await progress_callback(len(collected_tweets), limit, error_msg)
+                        res = None
+                        break
+                
+                if res is None:
+                    print("[ERROR] Failed to fetch data after retries.")
                     break
 
                 # レスポンスをパース
