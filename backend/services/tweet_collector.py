@@ -42,8 +42,8 @@ async def collect_tweets_from_session(
         収集結果の辞書（tweet_count, output_file, error）
     """
     try:
-        # 検索クエリを構築
-        query = f"{keyword} since:{start_date} until:{end_date}"
+        # 検索クエリを構築（日本時間 JST を指定）
+        query = f"{keyword} since:{start_date}_00:00:00_JST until:{end_date}_23:59:59_JST"
         
         if progress_callback:
             await progress_callback(0, limit, f"検索クエリ: {query}")
@@ -203,8 +203,14 @@ async def collect_tweets_from_session(
                                 
                                 collected_tweets.append(tweet_data)
                                 new_tweets_found = True
+                                
+                                if len(collected_tweets) >= limit:
+                                    break
                         except Exception as e:
                             continue
+                    
+                    if len(collected_tweets) >= limit:
+                        break
 
                     # カーソルを抽出
                     for instruction in instructions:

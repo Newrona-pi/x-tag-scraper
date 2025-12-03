@@ -19,6 +19,7 @@ interface JobStatus {
 export default function Home() {
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [keyword, setKeyword] = useState("");
+  const [searchType, setSearchType] = useState<"hashtag" | "keyword">("hashtag");
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
   const [limit, setLimit] = useState("100");
@@ -31,7 +32,7 @@ export default function Home() {
     const today = new Date();
     const oneYearAgo = new Date();
     oneYearAgo.setFullYear(today.getFullYear() - 1);
-    
+
     setEndDate(today.toISOString().split("T")[0]);
     setStartDate(oneYearAgo.toISOString().split("T")[0]);
   }, []);
@@ -63,7 +64,11 @@ export default function Home() {
     try {
       const formData = new FormData();
       formData.append("file", selectedFile);
-      formData.append("keyword", keyword);
+      let finalKeyword = keyword;
+      if (searchType === "hashtag" && !keyword.startsWith("#")) {
+        finalKeyword = `#${keyword}`;
+      }
+      formData.append("keyword", finalKeyword);
       formData.append("start_date", startDate);
       formData.append("end_date", endDate);
       formData.append("limit", limit);
@@ -164,12 +169,38 @@ export default function Home() {
               selectedFile={selectedFile}
             />
 
+            <div className="space-y-2">
+              <label className="block text-sm font-medium text-gray-700">検索タイプ</label>
+              <div className="flex gap-4">
+                <label className="flex items-center space-x-2 cursor-pointer">
+                  <input
+                    type="radio"
+                    value="hashtag"
+                    checked={searchType === "hashtag"}
+                    onChange={() => setSearchType("hashtag")}
+                    className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
+                  />
+                  <span className="text-gray-700">ハッシュタグ</span>
+                </label>
+                <label className="flex items-center space-x-2 cursor-pointer">
+                  <input
+                    type="radio"
+                    value="keyword"
+                    checked={searchType === "keyword"}
+                    onChange={() => setSearchType("keyword")}
+                    className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300"
+                  />
+                  <span className="text-gray-700">キーワード</span>
+                </label>
+              </div>
+            </div>
+
             <FormInput
-              label="キーワード / ハッシュタグ"
+              label={searchType === "hashtag" ? "ハッシュタグ" : "キーワード"}
               type="text"
               value={keyword}
               onChange={setKeyword}
-              placeholder="#Python / Python"
+              placeholder={searchType === "hashtag" ? "#Python" : "Python"}
               required
             />
 
@@ -229,13 +260,12 @@ export default function Home() {
                   </div>
                   <div className="w-full bg-gray-200 rounded-full h-2.5">
                     <div
-                      className={`h-2.5 rounded-full transition-all ${
-                        jobStatus.status === "completed"
+                      className={`h-2.5 rounded-full transition-all ${jobStatus.status === "completed"
                           ? "bg-green-500"
                           : jobStatus.status === "error"
-                          ? "bg-red-500"
-                          : "bg-blue-500"
-                      }`}
+                            ? "bg-red-500"
+                            : "bg-blue-500"
+                        }`}
                       style={{
                         width: `${(jobStatus.progress / jobStatus.total) * 100}%`,
                       }}
